@@ -1,2 +1,2 @@
 # PrimerJuego
-Primer juego
+Primer juego realizado con js.
